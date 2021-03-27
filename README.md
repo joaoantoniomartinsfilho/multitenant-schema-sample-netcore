@@ -1,0 +1,1 @@
+# multitenant-schema-sample-netcore
